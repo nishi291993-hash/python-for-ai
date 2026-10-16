@@ -61,3 +61,4 @@ validator.validate_age(150)
 
 print(validator.get_errors())
 # ['Invalid email: bad-email', 'Invalid age: 200', 'Invalid email: another-bad-email']
+#chng
